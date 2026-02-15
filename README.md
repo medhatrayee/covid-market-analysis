@@ -9,3 +9,10 @@ Was volatility structurally linked to epidemiological trends?
 Did the Pharma sector demonstrate relative outperformance during the crisis?
 
 How did volatility behavior differ across pandemic phases?
+Data Sources
+
+NIFTY 50 Historical Price Data
+
+NIFTY Pharma Index Data
+
+India COVID-19 Case Dataset
